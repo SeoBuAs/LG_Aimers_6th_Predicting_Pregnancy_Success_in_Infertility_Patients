@@ -1,5 +1,13 @@
 # LG Aimers 6th Predicting Pregnancy Success in Infertility Patients
 
+## Abstract
+Infertility is an increasingly significant medical issue worldwide, with many couples experiencing long-term physical and mental burdens. Patients undergoing infertility treatments often face high costs and significant psychological stress during the process, making it crucial to maximize the chances of pregnancy with the minimal number of procedures.
+
+To address this need, healthcare institutions have shown great interest in AI-based models for predicting pregnancy success. AI-driven solutions can analyze vast amounts of infertility treatment data to support optimal decision-making and help establish personalized treatment plans for patients. This not only reduces the burden of procedures on patients but also serves as a key competitive factor for healthcare providers in offering differentiated services.
+
+This hackathon focuses on developing an AI model that predicts "pregnancy success" using infertility patient data and explores the optimal features that determine pregnancy. Based on this, the project involved developing an infertility prediction AI model and uncovering various insights derived from it.
+
+---
 
 <h3> 👪 Team Members </h3>
 <table>
