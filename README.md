@@ -1,4 +1,4 @@
-# LG_Aimers_6th_Predicting_Pregnancy_Success_in_Infertility_Patients
+# LG_Aimers 6th Predicting Pregnancy Success in Infertility Patients
 
 
 <h3> 👪 Team Members </h3>
