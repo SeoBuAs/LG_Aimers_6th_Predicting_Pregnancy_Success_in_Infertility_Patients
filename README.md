@@ -18,7 +18,7 @@
   <tr>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="200" height="300"/> </td>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/fa51738c-7890-45c2-b8d3-05715d756093" width="200" height="300"/> </td>
-    <td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d"      width="250"  height="300"/>  </td>
+    <td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d"      width="200"  height="300"/>  </td>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/dcc28d77-814b-44bf-b0a7-daaede6211f6" width="200" height="300"/> </td>
   </tr>
   <tr>
