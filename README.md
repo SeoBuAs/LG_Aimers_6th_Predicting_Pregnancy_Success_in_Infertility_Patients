@@ -37,3 +37,16 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
 
   </tr>
 </table>
+
+---
+
+### 🏆 Execution Results
+- **LG Aimers 6th Online Hackathon** 
+  - Public Rank:
+  - Private Rank:
+  - Competitors: 740 teams
+- **LG Aimers 6th Offline Hackathon**  
+  - Public Rank:
+  - Private Rank:
+  - Competitors: 
+  - Overall:
