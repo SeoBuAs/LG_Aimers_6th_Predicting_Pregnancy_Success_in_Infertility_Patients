@@ -50,3 +50,10 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Private Rank:
   - Competitors: 
   - Overall:
+
+<table>
+  <tr>
+    <td><img src="./images/Online_PublicScore.png" alt="Image 1" width="450px" /></td>
+    <td><img src="./images/Online_PrivateScore.png" alt="Image 2" width="450px" /></td>
+  </tr>
+</table>
