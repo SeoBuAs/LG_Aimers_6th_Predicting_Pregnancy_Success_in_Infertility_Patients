@@ -45,11 +45,6 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Public Rank: 1st (AUC : 0.74350)
   - Private Rank: 1st (AUC : 0.74377)
   - Competitors: 740 teams
-- **LG Aimers 6th Offline Hackathon**  
-  - Public Rank:
-  - Private Rank:
-  - Competitors: 
-  - Overall:
 
 <table>
   <tr>
@@ -57,3 +52,9 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
     <td><img src="./images/Online_PrivateScore.png" alt="Image 2" width="450px" /></td>
   </tr>
 </table>
+
+- **LG Aimers 6th Offline Hackathon**  
+  - Public Rank:
+  - Private Rank:
+  - Competitors: 
+  - Overall:
