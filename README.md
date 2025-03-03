@@ -58,3 +58,5 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Private Rank:
   - Competitors: 
   - Overall:
+ 
+We are ready to Offline Hackathon!
