@@ -60,3 +60,4 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Overall:
  
 We are ready to Offline Hackathon!
+We prepare LLM Models and Dashboard with this tabular data.
