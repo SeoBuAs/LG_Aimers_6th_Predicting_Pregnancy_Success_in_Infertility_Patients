@@ -65,4 +65,6 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   </tr>
 You can check our presentation at this repository.
 
+---
+
 ### Why we can't win at offline hackathon?
