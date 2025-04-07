@@ -57,7 +57,9 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Public Rank: 8th (Brier Score + F1 : 0.66305)
   - Private Rank: 13th (Brier Score + F1 : 0.66106)
   - Competitors: 27 teams
- 
+
+---
+
 ### Why we Failed? 
 We are ready to Offline Hackathon!
 We prepare LLM Models and Dashboard with this tabular data.
