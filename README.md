@@ -68,3 +68,19 @@ You can check our presentation at this repository.
 ---
 
 ### Why we can't win at offline hackathon?
+**1. Teamwork**
+We failed to operate as a true team because there wasn't enough collaboration, and we didn't actively share our views with one another like we should have. All the team members wanted to handle the modeling aspect. However, it now seems necessary that we should have divided the responsibilities, creating distinct EDA and modeling teams.
+
+**2. EDA**
+We didn't perform the necessary Exploratory Data Analysis (EDA). The variables seemed similar, but it was entirely new data, requiring us to redo the EDA. However, we didn't recognize this necessity until there were only 4 hours remaining in the offline hackathon. I wonder if my failure to conduct EDA was partly due to a sense of complacency or perhaps a bit of arrogance, stemming from having won first place in the previous online hackathon.
+
+**3. Sickness**
+Because I (Seo Buas) failed to manage my health, I suffered from severe stomach cramps on the day of the hackathon. It was my fault for not taking better care of myself, especially considering I was effectively a key player/strength for the team.
+
+Reflecting on these experiences, I've learned valuable lessons about the importance of soft skills for data scientists and the critical need to consistently perform thorough Exploratory Data Analysis (EDA). I also recognized the significance of individual health management for team members, and deeply understood the importance of both leadership and fellowship within the team dynamic.
+
+Based on these insights, I believe I can grow into a better data scientist.
+
+**I am very grateful to the LG Aimers team for providing me with such a valuable learning experience. Thank you.**
+
+
