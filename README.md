@@ -82,7 +82,7 @@ You can check our presentation at this repository.
 
 * **Individual Responsibility:** Because I (Seo Buas) failed to manage my health, I suffered from severe stomach cramps on the day of the hackathon. It was my fault for not taking better care of myself, especially considering I was effectively a key player/strength for the team.
 
-## Lessons Learned & Future Growth
+### Lessons Learned & Future Growth
 
 Reflecting on these experiences, I've learned valuable lessons about:
 
