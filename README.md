@@ -59,7 +59,10 @@ This hackathon focuses on developing an AI model that predicts "pregnancy succes
   - Competitors: 27 teams
 
 ---
+### Our Presentation
+  <tr>
+    <td><img src="./images/Pipeline.png" alt="Image 1" width="1000px" /></td>
+  </tr>
+You can check our presentation at this repository.
 
-### Why we Failed? 
-We are ready to Offline Hackathon!
-We prepare LLM Models and Dashboard with this tabular data.
+### Why we can't win at offline hackathon?
